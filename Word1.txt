@@ -1,0 +1,15 @@
+File handling:
+
+Need for a data file,
+
+Types of FILE: Text files,
+
+Binary files
+
+
+
+and CSV (Comma
+
+separated values)
+
+files.

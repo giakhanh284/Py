@@ -1,0 +1,4 @@
+1001        Nguyen        Van          Bay        20        nam       7.00        8.00        9.00        8.00
+1002        Le            Van          The        19        Nam       6.00        8.00        8.00        7.33
+1003        Pham          Van          Cuong      20        Nam       4.00        5.00        6.00        5.00
+1004        Nguyen        Hai          Dang       19        Nam       6.00        9.00        8.00        7.67
